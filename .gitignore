@@ -1,0 +1,13 @@
+# ログイン情報・認証情報・状態ファイル
+.venv/
+.profile/
+.state.json
+.google_token.json
+.gcal_state.json
+.files_state.json
+client_secret*.json
+sync.log
+__pycache__/
+build/
+dist/
+*.spec
